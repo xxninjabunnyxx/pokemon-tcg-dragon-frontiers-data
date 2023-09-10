@@ -1,0 +1,70 @@
+---
+id: ex15-75
+name: Holon Mentor
+supertype: Trainer
+subtypes:
+- Supporter
+rules:
+- You can play only one Supporter card each turn. When you play this card, put it
+  next to your Active Pokémon. When your turn ends, discard this card.
+- Discard a card from your hand. If you can't discard a card from your hand, you can't
+  play this card.
+- Search your deck for up to 3 Basic Pokémon that each has 100 HP or less, show them
+  to your opponent, and put them into your hand. Shuffle your deck afterward.
+set:
+  id: ex15
+  name: Dragon Frontiers
+  series: EX
+  printedTotal: 101
+  total: 101
+  legalities:
+    unlimited: Legal
+  ptcgoCode: DF
+  releaseDate: 2006/11/01
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/ex15/symbol.png
+    logo: https://images.pokemontcg.io/ex15/logo.png
+number: '75'
+artist: Kouki Saitou
+rarity: Uncommon
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ex15/75.png
+  large: https://images.pokemontcg.io/ex15/75_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ex15-75
+  updatedAt: 2023/09/10
+  prices:
+    normal:
+      low: 1.98
+      mid: 3.76
+      high: 7.17
+      market: 6.33
+      directLow: 3.15
+    reverseHolofoil:
+      low: 5.0
+      mid: 5.89
+      high: 14.75
+      market: 5.64
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ex15-75
+  updatedAt: 2023/09/10
+  prices:
+    averageSellPrice: 1.07
+    lowPrice: 0.2
+    trendPrice: 1.11
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 3.2
+    reverseHoloLow: 0.25
+    reverseHoloTrend: 3.51
+    lowPriceExPlus: 0.75
+    avg1: 1.5
+    avg7: 1.01
+    avg30: 1.25
+    reverseHoloAvg1: 6.49
+    reverseHoloAvg7: 3.18
+    reverseHoloAvg30: 3.69

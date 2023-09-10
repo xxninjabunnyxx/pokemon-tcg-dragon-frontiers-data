@@ -1,0 +1,91 @@
+---
+id: ex15-13
+name: Arbok δ
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '80'
+types:
+- Fire
+evolvesFrom: Ekans
+attacks:
+- name: Burning Venom
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: ''
+  text: The Defending Pokémon is now Burned and Poisoned.
+- name: Strangle
+  cost:
+  - Fire
+  - Fire
+  - Colorless
+  convertedEnergyCost: 3
+  damage: 50+
+  text: If the Defending Pokémon has δ on its card, this attack does 50 damage plus
+    30 more damage.
+weaknesses:
+- type: Psychic
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: ex15
+  name: Dragon Frontiers
+  series: EX
+  printedTotal: 101
+  total: 101
+  legalities:
+    unlimited: Legal
+  ptcgoCode: DF
+  releaseDate: 2006/11/01
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/ex15/symbol.png
+    logo: https://images.pokemontcg.io/ex15/logo.png
+number: '13'
+artist: Hisao Nakamura
+rarity: Rare
+nationalPokedexNumbers:
+- 24
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ex15/13.png
+  large: https://images.pokemontcg.io/ex15/13_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ex15-13
+  updatedAt: 2023/09/10
+  prices:
+    normal:
+      low: 0.5
+      mid: 0.95
+      high: 11.5
+      market: 0.89
+      directLow: 0.49
+    reverseHolofoil:
+      low: 6.29
+      mid: 12.96
+      high: 17.9
+      market: 13.94
+      directLow: 5.99
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ex15-13
+  updatedAt: 2023/09/10
+  prices:
+    averageSellPrice: 0.84
+    lowPrice: 0.1
+    trendPrice: 0.79
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 2.0
+    reverseHoloTrend: 6.69
+    lowPriceExPlus: 0.39
+    avg1: 0.57
+    avg7: 0.91
+    avg30: 0.78
+    reverseHoloAvg1: 2.99
+    reverseHoloAvg7: 6.03
+    reverseHoloAvg30: 5.43

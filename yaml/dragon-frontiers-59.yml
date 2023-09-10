@@ -1,0 +1,85 @@
+---
+id: ex15-59
+name: Pupitar δ
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '70'
+types:
+- Lightning
+evolvesFrom: Larvitar
+evolvesTo:
+- Tyranitar
+attacks:
+- name: Hyper Beam
+  cost:
+  - Lightning
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '20'
+  text: Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon.
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: ex15
+  name: Dragon Frontiers
+  series: EX
+  printedTotal: 101
+  total: 101
+  legalities:
+    unlimited: Legal
+  ptcgoCode: DF
+  releaseDate: 2006/11/01
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/ex15/symbol.png
+    logo: https://images.pokemontcg.io/ex15/logo.png
+number: '59'
+artist: Kouki Saitou
+rarity: Common
+nationalPokedexNumbers:
+- 247
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ex15/59.png
+  large: https://images.pokemontcg.io/ex15/59_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ex15-59
+  updatedAt: 2023/09/10
+  prices:
+    normal:
+      low: 0.15
+      mid: 0.36
+      high: 5.0
+      market: 0.35
+      directLow: 0.2
+    reverseHolofoil:
+      low: 4.55
+      mid: 7.0
+      high: 8.0
+      market: 3.69
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ex15-59
+  updatedAt: 2023/09/10
+  prices:
+    averageSellPrice: 0.26
+    lowPrice: 0.02
+    trendPrice: 0.13
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 9.99
+    reverseHoloLow: 0.99
+    reverseHoloTrend: 5.51
+    lowPriceExPlus: 0.03
+    avg1: 0.25
+    avg7: 0.27
+    avg30: 0.36
+    reverseHoloAvg1: 9.99
+    reverseHoloAvg7: 5.09
+    reverseHoloAvg30: 3.89
